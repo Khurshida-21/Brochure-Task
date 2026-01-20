@@ -1,4 +1,4 @@
-### Skincare Brand Brochure Template
+# Skincare Brand Brochure Template
 
 # Description
 
